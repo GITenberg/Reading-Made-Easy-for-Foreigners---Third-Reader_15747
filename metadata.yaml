@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6248'
     url: http://www.gutenberg.org/2009/agents/6248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15747#Reading-Made-Easy-for-Foreigners---Third-Reader
 gutenberg_issued: '2005-05-02'
 gutenberg_type: Text
 identifiers:
