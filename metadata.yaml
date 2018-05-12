@@ -1,0 +1,27 @@
+_repo: Reading-Made-Easy-for-Foreigners---Third-Reader_15747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hülshof, John Ludwig
+    alias: Hulshof, John Ludwig
+    birthdate: 1856
+    gutenberg_agent_id: '6248'
+    url: http://www.gutenberg.org/2009/agents/6248
+description: ''
+gutenberg_issued: '2005-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcsh 'English language -- Textbooks for foreign speakers'
+- !lcc 'PE'
+title: Reading Made Easy for Foreigners - Third Reader
+url: http://www.gutenberg.org/ebooks/15747
